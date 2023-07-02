@@ -1,0 +1,1 @@
+https://academy.yandex.ru/handbook/python
