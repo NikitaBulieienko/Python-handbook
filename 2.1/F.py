@@ -7,5 +7,5 @@ result_2 = money - price * weight
 print("Чек")
 print(name, "-", str(weight) + "кг", "-", str(price) + "руб/кг")
 print("Итого:", str(round(result_1)) + "руб")
-print("Внесено:", str(money) + "руб")
+print(f"Внесено: {money}руб")
 print("Сдача:", str(round(result_2)) + "руб")
